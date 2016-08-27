@@ -1,0 +1,14 @@
+name: Activist News Network
+layout_spectrum: 0.5162930417921895
+typography_spectrum: 0.604040868768048
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.5926539472170603
+  lightness: 0.6601141525060803
+  saturation: 0.24083819872724177
+  rhythmicContrast: 0.4331499057279089
